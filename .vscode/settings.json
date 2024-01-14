@@ -1,0 +1,18 @@
+{
+  "DevChat.Language": "en",
+  "DevChat.PythonForChat": "c:\\Users\\jake\\.vscode\\extensions\\merico.devchat-0.1.39\\tools\\python-3.11.6-embed-amd64\\python.exe",
+  "DevChat.PythonForCommands": "C:\\Users\\jake\\.chat\\mamba\\envs\\devchat-commands\\python.exe",
+  "bitoAI.codeCompletion.enableAutoCompletion": true,
+  "bitoAI.codeCompletion.enableCommentToCode": true,
+  "devchat.defaultModel": "gpt-4",
+  "cody.codebase": "https://github.com/Bunsly/JobSpy/tree/a5916edcddf833419898dcdc30180e91fcdad947",
+  "cody.autocomplete.languages": {
+
+    "*": true
+  },
+  "cody.useContext": "blended",
+  "cody.internal.unstable": false,
+  "cody.telemetry.level": "off",
+  "cody.autocomplete.advanced.model": "mistral-7b-instruct-4k",
+  "cody.autocomplete.advanced.provider": "unstable-openai"
+}

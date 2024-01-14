@@ -18,7 +18,7 @@ Updated for release v1.1.3
 
 ![jobspy](https://github.com/cullenwatson/JobSpy/assets/78247585/ec7ef355-05f6-4fd3-8161-a817e31c5c57)
 
-### Installation
+### Installation`
 
 ```
 pip install python-jobspy
